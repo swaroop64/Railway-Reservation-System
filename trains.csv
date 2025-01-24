@@ -1,0 +1,5 @@
+name,num,arr_time,dep_time,src,des,day_of_travel,seat_available_in_1AC,seat_available_in_2AC,seat_available_in_SL,fare_1ac,fare_2ac,fare_sl
+odisha,12345,12:34,22:12,ctc,kgp,Wed,30,23,43,2205,320,234
+howrah,12565,02:34,23:12,hwr,kol,Mon,33,4,12,3434,435,234
+bangalore,22353,11:56,03:12,ctc,ban,Fri,33,24,77,455,325,533
+visakhapatnam,22364,07:00,10:00,vsk,mas,Fri,33,24,77,455,325,475
